@@ -5,4 +5,7 @@
 ## Third-Party Assets
 
 - “Modern Brick Cabin” — Everex (CC-BY)
-- Other model beside the house made by PGG
+- Other model beside the house made by
+
+
+Copyright © 2026 PGG
