@@ -1,6 +1,6 @@
 # Copyright Notice
 
-© 2026 PGG. All original game content, including code, hand model, and other assets, created by PGG. All rights reserved.
+© 2026 PGG. All original game content, including code, hand model, and other assets only modern brick cabin not created by pgg but expect for that, created by PGG. All rights reserved.
 
 ## Third-Party Assets
 
