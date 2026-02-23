@@ -9,3 +9,6 @@ download now on https://github.com/zwewint16/parkour-time-chapter-1-/releases/ta
 # which to install
 install the installer file because it much easier and simple and if you want to use zip you need to know how to extract file the .exe and shortcut it.
 
+# owner of the game
+this game is owned by zwe/pgg 
+
