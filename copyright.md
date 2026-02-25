@@ -1,13 +1,10 @@
-# Copyright Notice
+## Copyright Notice
+© 2026 PGG. All rights reserved.
 
-© 2026 PGG. All original game content, including code, hand model, and other assets only modern brick cabin not created by pgg but expect for that, created by PGG. All rights reserved.
+All original game content, including code, hand model, gameplay systems, and custom assets are created by PGG.
 
 ## Third-Party Assets
+“Modern Brick Cabin” — Everex (CC-BY License)
+All other models and assets (besides the Modern Brick Cabin) are created by PGG.
 
-- “Modern Brick Cabin” — Everex (CC-BY)
-- Other model beside the house made by pgg
-
-
-Copyright © 2026 PGG
-
-parkour time
+Parkour Time is an original game project by PGG.
