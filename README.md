@@ -12,3 +12,13 @@ install the installer file because it much easier and simple and if you want to 
 # owner of the game
 this game is owned by zwe/pgg 
 
+## website to download the game
+ https://parkour-time.github.io/
+ https://parkour-time.netlify.app/
+ parkour-time.x10.mx
+
+ ## is it safe
+
+it 100 percent safe.check it in virustotal is it safe or not
+ 
+
